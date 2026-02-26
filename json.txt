@@ -1,0 +1,7 @@
+{
+  "codigo_bomba": 3,
+  "usuario": "Cleiton",
+  "valor": 5.20,
+  "litros": 1000,
+  "data_hora": "2026-02-26 23:30:00"
+}
